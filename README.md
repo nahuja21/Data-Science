@@ -35,4 +35,5 @@ This R script performs data analysis on a video games dataset. It includes prepr
 
 
 # Python
-*Coming Soon*
+
+Finance Manager Tool I made to keep track of my spendings. It also generates fake data for monthly spending that is used to make some data charts.
